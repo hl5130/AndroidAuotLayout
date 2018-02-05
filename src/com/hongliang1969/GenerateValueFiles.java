@@ -160,6 +160,8 @@ public class GenerateValueFiles {
     }
 
     public static void main(String[] args) {
+
+        // TODO 修改基准分辨率
         int baseW = 320;
         int baseH = 400;
         String addition = "";
